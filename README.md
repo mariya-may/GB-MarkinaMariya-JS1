@@ -1,1 +1,1 @@
-GB-MarkinaMariya-JS1
+* Домашне задание по курсу javascript 1
