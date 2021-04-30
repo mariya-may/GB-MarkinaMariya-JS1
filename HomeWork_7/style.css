@@ -1,0 +1,44 @@
+#snake-field{
+    display: inline-block;
+}
+
+#snake-restart,#snake-start{
+    width: 150px;
+    padding: 15px;
+    text-align: center;
+    cursor: pointer;
+    float: left;
+    margin-right: 10px;
+}
+
+.game-table{
+    border-collapse: collapse;
+    background-color: darkgray;
+}
+
+td.game-table-cell{
+    width: 15px;
+    height: 15px;
+    border: 1px dotted #000;
+}
+
+.snake-unit{
+    background-color: #33ff1f;
+}
+
+.food-unit{
+    background-color: #b3101b;
+}
+
+.block-unit{
+    background-color: #fffaf8;
+}
+
+.button{
+    display: inline-block;
+}
+
+.main{
+    margin: 30px auto 0;
+    text-align: center;
+}
